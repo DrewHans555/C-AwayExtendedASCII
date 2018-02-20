@@ -10,7 +10,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-const char PROGRAMNAME[] = "C-AwayWithExtendedASCII";
+const char PROGRAMNAME[] = "C-AwayExtendedASCII";
 
 /* main method - the program starts here */
 int main(void) {

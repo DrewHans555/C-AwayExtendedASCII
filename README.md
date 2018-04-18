@@ -7,7 +7,7 @@ If the size of the original file is (X) bits then the compressed file size will 
 
 ### Prerequisites
 * GCC (or similar compiler)
-* MAKE (or you can compile yourself using: gcc main.c -o cawayextendedascii)
+* GNU Make (or you can compile yourself using: gcc main.c -o cawayextendedascii)
 
 ## License
 
